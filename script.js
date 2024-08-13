@@ -1,6 +1,6 @@
 const display = document.querySelector("#display");
 
-function apendToDisplay(input) {
+function appendToDisplay(input) {
   display.value += input;
 }
 
